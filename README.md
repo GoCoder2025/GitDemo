@@ -1,3 +1,7 @@
 #Demo Git Repository
 
-This is the First file in this Repo ..
+This is the Firs test file in this Repo ..
+
+
+##Some more Info
+This is Test Text . 
